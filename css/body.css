@@ -28,3 +28,33 @@ section {
   padding: 0 9%;
   color: var(--text-color);
 }
+.projects {
+  height: 100vh;
+  background-color: var(--bg-color);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  padding: 0 9%;
+  color: var(--text-color);
+}
+.permits {
+  height: 100vh;
+  background-color: var(--second-bg-color);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  padding: 0 9%;
+  color: var(--text-color);
+}
+.contact {
+  height: 100vh;
+  background-color: var(--bg-color);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  padding: 0 9%;
+  color: var(--text-color);
+}

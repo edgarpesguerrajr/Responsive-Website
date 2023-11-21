@@ -11,7 +11,7 @@
   align-items: center;
   flex-wrap: wrap;
   padding: 2rem 9%;
-  background: var(--bg-color);
+  background: var(--second-bg-color);
 }
 .footer-text p {
   font-size: 1.6rem;
@@ -36,7 +36,7 @@
   left: 0;
   width: 0;
   height: 100%;
-  background: var(--bg-color);
+  background: var(--second-bg-color);
   z-index: -1;
   transition: 0.5s;
 }
