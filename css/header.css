@@ -1,0 +1,23 @@
+header {
+  height: 10vh;
+  background-color: blue;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+  justify-content: center;
+}
+
+.logo {
+}
+
+nav {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+li {
+  text-decoration: none;
+}
